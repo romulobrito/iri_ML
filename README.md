@@ -27,4 +27,10 @@ Os dados utilizados estão na pasta `Data/` e incluem arquivos Excel com informa
 
 ---
 
+## Abrir no Google Colab
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romulobrito/iri_ML/blob/master/IRI.ipynb)
+
+---
+
 Para dúvidas ou sugestões, abra uma issue ou envie um pull request. 
